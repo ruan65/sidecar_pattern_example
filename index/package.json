@@ -1,0 +1,15 @@
+{
+  "name": "sidecar_pattern_example",
+  "version": "1.0.0",
+  "description": "side cat pattern example",
+  "main": "index.js",
+	"type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
